@@ -52,8 +52,8 @@ When a prompt doesn't give the output you want, don't just rewrite the whole thi
 
 ### Example iteration cycle
 Task: follow-up email to a client about a delayed deliverable.
-1. **Round 1:** "Write a follow-up email about the delay." → generic and defensive, no date, no reason. *Diagnosis: thin context, no tone constraint.*
-2. **Round 2:** added the cause, the new delivery date, the tone ("accountable, not over-apologetic") and a length limit (under 120 words). → strong; only the subject line is missing.
+1. **Round 1:** "Write a follow-up email about the delay." ---> generic and defensive, no date, no reason. *Diagnosis: thin context, no tone constraint.*
+2. **Round 2:** added the cause, the new delivery date, the tone ("accountable, not over-apologetic") and a length limit (under 120 words). ---> strong; only the subject line is missing.
 3. **Round 3:** "Add a subject line that signals resolution, not just delay."
 
 ## Adapting strategy by task type
