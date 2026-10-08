@@ -1,4 +1,4 @@
-﻿---
+---
 title: Claude Associate Notes
 ---
 # Claude Associate Notes
